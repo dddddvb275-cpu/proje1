@@ -44,3 +44,16 @@ ul {
     background-color: #738395db;
     border-radius: 10px;
 }
+/* Ekran genişliği 768px'den küçükse (telefonlar için) */
+@media (max-width: 768px) {
+    .provinces {
+        flex-direction: column; /* Kartları alt alta diz */
+        align-items: center;    /* Ortala */
+    }
+    
+    input {
+        width: 90%;             /* Arama kutusunu genişlet */
+        margin: 10px auto;      /* Kenar boşluklarını düzenle */
+    }
+}
+
