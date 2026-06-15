@@ -20,5 +20,10 @@ Just a month ago, I was building simple HTML forms. Today, I am architecting mod
 ## 🎯 Main Goal
 My primary goal with this project is to track my own growth. Every line of code here represents a step forward in understanding how modern web applications work. I am learning, building, and moving forward!
 
+
+## 🌐 Live Demo
+You can view the live version of this project here: 
+https://dddddvb275-cpu.github.io/proje1/
+
 ---
 *Created by Emirhan Çelik as part of my continuous learning path.*
